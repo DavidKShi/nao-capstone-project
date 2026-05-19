@@ -128,14 +128,6 @@ The system is built using a Finite State Machine (FSM):
 
 ---
 
-# Challenges & Solutions
-
-- Real-time processing constraints → Optimized event loop for responsiveness
-- Multimodal input handling → Separated vision, audio, and AI modules
-- State synchronization issues → Centralized FSM controller architecture
-
----
-
 # Team & Collaboration
 
 Developed as a group capstone project with responsibilities shared across:
