@@ -66,18 +66,18 @@ The robot dynamically transitions between states based on voice commands.
                           |
       +-------------------+-------------------+
       |                                       |
-Voice Command                        Voice Command
+Voice Command ("Hey NAO")            Voice Command ("Dance NAO")
       |                                       |
       v                                       v
 +--------------------+            +--------------------+
 | Conversation State |            |   Dance State      |
 | AI Chat (OpenAI)   |            | Choreographed Moves|
 +--------------------+            +--------------------+
-      |                 |                     |
-      |                 |                     |
-      |       "Goodbye" |                     | "Stop NAO"
-      |                 v                     |
-      |            Return to Idle            |
+      |                                       |
+      |                                       |
+      |                                       |
+Voice Command ("Goodbye")         Voice Command ("Stop NAO")
+      |                                       |
       |                                       |
       +-------------------+-------------------+
                           |
