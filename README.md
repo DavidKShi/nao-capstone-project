@@ -69,10 +69,10 @@ The robot dynamically transitions between states based on voice commands.
 Voice Command ("Hey NAO")         Voice Command ("Dance NAO")
       |                                       |
       v                                       v
-+--------------------+            +--------------------+
-| Conversation State |            |   Dance State      |
-| AI Chat (OpenAI)   |            | Choreographed Moves|
-+--------------------+            +--------------------+
++--------------------+            +---------------------+
+| Conversation State |            |   Dance State       |
+| AI Chat (OpenAI)   |            | Choreographed Moves |
++--------------------+            +---------------------+
       |                                       |
       |                                       |
       |                                       |
