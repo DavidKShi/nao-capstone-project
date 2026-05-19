@@ -66,7 +66,7 @@ The robot dynamically transitions between states based on voice commands.
                           |
       +-------------------+-------------------+
       |                                       |
-Voice Command ("Hey NAO")            Voice Command ("Dance NAO")
+Voice Command ("Hey NAO")         Voice Command ("Dance NAO")
       |                                       |
       v                                       v
 +--------------------+            +--------------------+
