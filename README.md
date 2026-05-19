@@ -90,9 +90,8 @@ The robot dynamically transitions between states based on voice commands.
 - Python
 - NAO Robot SDK (NAOqi Framework)
 - OpenCV (Computer Vision)
-- Speech Recognition (Google Speech / offline engine)
+- AI Conversation (ChatGPT API)
 - Audio Processing (music detection)
-- OpenAI API
 - Finite State Machine (FSM) design pattern
 
 ---
