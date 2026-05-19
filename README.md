@@ -108,7 +108,7 @@ The robot dynamically transitions between states based on voice commands.
    - “Dance NAO” → Dance State
 4. Conversation state generates AI responses using ChatGPT
 5. Dance state executes predefined motion sequences
-6. System returns to Idle after hearing "Goodbye"
+6. System returns to idle state after hearing "Goodbye" in conversation state or "Stop NAO" in dance state
 
 ---
 
