@@ -133,17 +133,6 @@ The system is built using a Finite State Machine (FSM):
 - Real-time processing constraints → Optimized event loop for responsiveness
 - Multimodal input handling → Separated vision, audio, and AI modules
 - State synchronization issues → Centralized FSM controller architecture
-- Latency in AI responses → Async request handling for API calls
-
----
-
-# Future Improvements
-
-- Emotion detection from facial expressions
-- Advanced personality tuning for conversation style
-- Gesture recognition for additional interaction modes
-- Cloud-based user profile storage
-- More complex dance choreography generation
 
 ---
 
@@ -159,10 +148,14 @@ Developed as a group capstone project with responsibilities shared across:
 
 # Demo
 
-
+https://youtu.be/x-_MvlWAx-c
 
 ---
 
 # License
 
 This project is intended for academic and portfolio use.
+
+# Authors
+
+Developed by David Shi, Ousama Alabdullah, Humaira Saddat
